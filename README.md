@@ -15,3 +15,9 @@ Titre du commit
 
 Description de notre commit avec les information sur l'evolution du projet
 ```
+
+## CRéation d'une branche
+
+```bash
+git checkout -b branch_name
+```
