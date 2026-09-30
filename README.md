@@ -2,3 +2,8 @@
 
 ## Initialiser du dépot 
 
+```bash
+git init
+
+git remotenorigin SSH-REPO
+```
