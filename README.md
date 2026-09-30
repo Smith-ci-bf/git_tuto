@@ -7,3 +7,11 @@ git init
 
 git remotenorigin SSH-REPO
 ```
+
+## Rédige r un commit 
+
+```
+Titre du commit 
+
+Description de notre commit avec les information sur l'evolution du projet
+```
