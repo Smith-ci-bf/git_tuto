@@ -21,3 +21,5 @@ Description de notre commit avec les information sur l'evolution du projet
 ```bash
 git checkout -b branch_name
 ```
+
+Pour les bonne pratique, on va integre la notion de revue de code. Pour ce la on va créer une branch
